@@ -1,0 +1,13 @@
+<h1>{{title}}</h1>
+<hr>
+<ul class="list-group">
+{{#each users}}
+    <li class="list-group-item">
+    <a href="/details/{{this.id}}">
+        {{this.name}} ({{this.company.name}})
+    </a>
+    </li>
+
+{{/each}}
+</ul>
+

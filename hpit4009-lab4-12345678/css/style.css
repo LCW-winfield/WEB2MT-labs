@@ -1,0 +1,43 @@
+body {
+  min-height: 100vh;
+  /* border: solid 1px red; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#nine-day-forecast {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-grow: 1; */
+}
+
+#nine-day-forecast > div {
+  border: solid 1px rgb(98, 142, 212);
+  margin: 0.5em;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: rgb(112, 152, 215);
+  color: white;
+}
+
+#nine-day-forecast h4 {
+  color: #333;
+}
+
+#nine-day-forecast > div img {
+  width: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+  #nine-day-forecast {
+    flex-direction: column;
+  }
+}

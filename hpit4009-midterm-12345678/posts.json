@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "date": "2024-10-01",
+    "title": "Sunset at the Beach",
+    "description": "Enjoying the beautiful sunset at the beach.",
+    "photo": "photo01.jpg",
+    "number_of_likes": 150
+  },
+  {
+    "id": 2,
+    "date": "2024-10-02",
+    "title": "Morning Coffee",
+    "description": "Starting the day with a fresh cup of coffee.",
+    "photo": "photo02.jpg",
+    "number_of_likes": 200
+  },
+  {
+    "id": 3,
+    "date": "2024-10-03",
+    "title": "Hiking Adventure",
+    "description": "Exploring the mountains on a sunny day.",
+    "photo": "photo03.jpg",
+    "number_of_likes": 175
+  },
+  {
+    "id": 4,
+    "date": "2024-10-04",
+    "title": "City Lights",
+    "description": "The city looks amazing at night.",
+    "photo": "photo04.jpg",
+    "number_of_likes": 220
+  },
+  {
+    "id": 5,
+    "date": "2024-10-05",
+    "title": "Delicious Dinner",
+    "description": "Had an amazing dinner at a new restaurant.",
+    "photo": "photo05.jpg",
+    "number_of_likes": 190
+  },
+  {
+    "id": 6,
+    "date": "2024-10-06",
+    "title": "Workout Session",
+    "description": "Feeling great after a tough workout.",
+    "photo": "photo06.jpg",
+    "number_of_likes": 160
+  },
+  {
+    "id": 7,
+    "date": "2024-10-07",
+    "title": "Reading Time",
+    "description": "Enjoying a good book on a rainy day.",
+    "photo": "photo07.jpg",
+    "number_of_likes": 140
+  },
+  {
+    "id": 8,
+    "date": "2024-10-08",
+    "title": "Art Exhibition",
+    "description": "Visited an inspiring art exhibition.",
+    "photo": "photo08.jpg",
+    "number_of_likes": 210
+  },
+  {
+    "id": 9,
+    "date": "2024-10-09",
+    "title": "Road Trip",
+    "description": "On a road trip with friends.",
+    "photo": "photo09.jpg",
+    "number_of_likes": 230
+  },
+  {
+    "id": 10,
+    "date": "2024-10-10",
+    "title": "Concert Night",
+    "description": "Had a blast at the concert last night.",
+    "photo": "photo10.jpg",
+    "number_of_likes": 250
+  },
+  {
+    "id": 11,
+    "date": "2024-10-11",
+    "title": "Nature Walk",
+    "description": "A peaceful walk in the park.",
+    "photo": "photo11.jpg",
+    "number_of_likes": 180
+  },
+  {
+    "id": 12,
+    "date": "2024-10-12",
+    "title": "Cooking Class",
+    "description": "Learned new recipes at a cooking class.",
+    "photo": "photo12.jpg",
+    "number_of_likes": 170
+  },
+  {
+    "id": 13,
+    "date": "2024-10-13",
+    "title": "Movie Night",
+    "description": "Watched a great movie with friends.",
+    "photo": "photo13.jpg",
+    "number_of_likes": 160
+  },
+  {
+    "id": 14,
+    "date": "2024-10-14",
+    "title": "Beach Day",
+    "description": "Spent the day relaxing at the beach.",
+    "photo": "photo14.jpg",
+    "number_of_likes": 240
+  },
+  {
+    "id": 15,
+    "date": "2024-10-15",
+    "title": "Museum Visit",
+    "description": "Explored a fascinating museum.",
+    "photo": "photo15.jpg",
+    "number_of_likes": 200
+  },
+  {
+    "id": 16,
+    "date": "2024-10-16",
+    "title": "Picnic in the Park",
+    "description": "Had a lovely picnic in the park.",
+    "photo": "photo16.jpg",
+    "number_of_likes": 190
+  },
+  {
+    "id": 17,
+    "date": "2024-10-17",
+    "title": "Yoga Session",
+    "description": "Feeling refreshed after a yoga session.",
+    "photo": "photo17.jpg",
+    "number_of_likes": 170
+  },
+  {
+    "id": 18,
+    "date": "2024-10-18",
+    "title": "Shopping Spree",
+    "description": "Went on a shopping spree today.",
+    "photo": "photo18.jpg",
+    "number_of_likes": 210
+  },
+  {
+    "id": 19,
+    "date": "2024-10-19",
+    "title": "Family Time",
+    "description": "Spent quality time with family.",
+    "photo": "photo19.jpg",
+    "number_of_likes": 220
+  },
+  {
+    "id": 20,
+    "date": "2024-10-20",
+    "title": "Gardening",
+    "description": "Worked on my garden today.",
+    "photo": "photo20.jpg",
+    "number_of_likes": 180
+  },
+  {
+    "id": 21,
+    "date": "2024-10-21",
+    "title": "Mountain Climbing",
+    "description": "Reached the summit after a challenging climb.",
+    "photo": "photo21.jpg",
+    "number_of_likes": 230
+  },
+  {
+    "id": 22,
+    "date": "2024-10-22",
+    "title": "Baking Day",
+    "description": "Baked some delicious treats.",
+    "photo": "photo22.jpg",
+    "number_of_likes": 200
+  },
+  {
+    "id": 23,
+    "date": "2024-10-23",
+    "title": "Cycling",
+    "description": "Went for a long bike ride.",
+    "photo": "photo23.jpg",
+    "number_of_likes": 190
+  },
+  {
+    "id": 24,
+    "date": "2024-10-24",
+    "title": "Photography",
+    "description": "Captured some amazing photos today.",
+    "photo": "photo24.jpg",
+    "number_of_likes": 210
+  }
+]

@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# Course slides (not lab code)
+*.pptx
+*.pdf
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env

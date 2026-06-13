@@ -1,0 +1,24 @@
+<div class="container">
+  <h1>{{title}}</h1>
+  
+  <div class="row">
+    {{#each posts}}
+    <!-- 响应式布局：xs=12(1列), md=4(3列), xxl=3(4列) -->
+    <div class="col-12 col-md-4 col-xxl-3 mb-4">
+      <div class="card">
+        <a href="/viewpost/{{this.id}}">
+          <img src="/images/{{this.photo}}" class="card-img-top" alt="{{this.title}}">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title">{{this.title}}</h5>
+          <p class="card-text">{{this.description}}</p>
+          <p class="card-text">
+            <small class="text-muted">点赞数: {{this.number_of_likes}}</small>
+          </p>
+          <a href="/viewpost/{{this.id}}" class="btn btn-primary">查看帖子</a>
+        </div>
+      </div>
+    </div>
+    {{/each}}
+  </div>
+</div>

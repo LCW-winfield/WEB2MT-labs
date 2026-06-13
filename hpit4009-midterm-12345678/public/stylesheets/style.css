@@ -1,0 +1,16 @@
+body {
+  margin: 5em;
+  font: 1em "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #00b7ff;
+}
+
+img {
+  width: 100%;
+}
