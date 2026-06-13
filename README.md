@@ -77,4 +77,3 @@ local setup. Run `data.sql` first or the queries won't have anywhere to go.
 
 ---
 
-Slides and PDFs aren't in here, just the code. Keeps the repo from being enormous.
